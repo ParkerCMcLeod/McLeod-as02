@@ -1,0 +1,10 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(äÂœÖ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(áýœ«ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Æàéµ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ô‰³³
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¸ÝÝÈ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(í÷óø
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†„„Ûûÿÿÿÿ
+0
+java:S1220""Move this file to a named package.

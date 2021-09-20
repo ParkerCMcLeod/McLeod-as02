@@ -1,0 +1,13 @@
+
+8
+java:S3626"Remove this redundant jump.(ûÁİ…8õáŠ‘À/
+M	java:S106"9Replace this use of System.out or System.err by a logger.(®ô„1
+M	java:S106"9Replace this use of System.out or System.err by a logger.(‰´’
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ğÚáŒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×ÀçÔúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷¨È
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‡İš’úÿÿÿÿ
+r
+java:S1192"WDefine a constant instead of duplicating this literal "The largest number is " 3 times.(×ÀçÔúÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
