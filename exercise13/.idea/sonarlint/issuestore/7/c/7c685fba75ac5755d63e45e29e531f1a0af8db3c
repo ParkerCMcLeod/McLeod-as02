@@ -1,0 +1,13 @@
+
+L
+java:S1854 "6Remove this useless assignment to local variable "ft".(çª¨”
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ãîİúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÁöÍÁ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ”‡ò
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ßÆ•Ğùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ô¤÷úúÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(†Ä—ç
+0
+java:S1220""Move this file to a named package.
+^
+java:S2184!"HCast one of the operands of this multiplication operation to a "double".(†Ä—ç
